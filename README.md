@@ -1,9 +1,9 @@
-<!-- 🔥 HEADER (AUTO DARK/LIGHT) -->
+<!-- 🔥 ULTRA-PREMIUM DYNAMIC HEADER -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=180&section=header&text=Hardik%20Sharma&fontSize=35&fontColor=ffffff&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=180&section=header&text=Hardik%20Sharma&fontSize=35&fontColor=ffffff&animation=fadeIn">
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=180&section=header&text=Hardik%20Sharma&fontSize=35&fontColor=ffffff&animation=fadeIn">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=200&section=header&text=Hardik%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Product%20Research%20%26%20Development%20Catalyst&descSize=16&descAlignY=75">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=200&section=header&text=Hardik%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Product%20Research%20%26%20Development%20Catalyst&descSize=16&descAlignY=75">
+    <img alt="Premium Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=200&section=header&text=Hardik%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Product%20Research%20%26%20Development%20Catalyst&descSize=16&descAlignY=75">
   </picture>
 </p>
 
@@ -12,121 +12,129 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=36&duration=1&pause=60000&color=4285F4&center=false&vCenter=true&width=77&lines=Omm" alt="Omm"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=36&duration=1&pause=60000&color=34A853&center=false&vCenter=true&width=45&lines=No" alt="No"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=36&duration=1&pause=60000&color=EA4335&center=false&vCenter=true&width=30&lines=M" alt="M"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=36&duration=1&pause=60000&color=FBBC05&center=false&vCenter=true&width=12&lines=i" alt="i"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=28&duration=1&pause=60000&color=5F6368&center=false&vCenter=true&width=220&lines=+Automation+LLP" alt="Automation LLP">
 </p>
 
-<!-- 🔥 TITLE -->
+<!-- 🔥 DYNAMIC TYPING SUITE -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Assistant%20Developer-5F6368?style=for-the-badge&logo=code&logoColor=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Assistant%20Developer-5F6368?style=for-the-badge&logo=code&logoColor=white">
-    <img alt="Assistant Developer Badge" src="https://img.shields.io/badge/Assistant%20Developer-5F6368?style=for-the-badge&logo=code&logoColor=white">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&duration=2000&color=4285F4&center=true&vCenter=true&width=600&lines=Advanced+AppSheet+Ecosystem+Architecture;Technical+Backend+Logic+Synthesis;Strategic+Operational+Friction+Smoothing;Cinematic+Technical+Study+Guides" alt="Dynamic Animations" />
 </p>
 
-<p align="center">Product Research & Development</p>
-<p align="center"><b>To build technical solutions that keep the product at the cutting edge of innovation.</b></p>
-
-<!-- 🔥 ANIMATION (ROBOTO FONT & OFFICIAL BLUE) -->
+<!-- 🔥 BRAND BADGE BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=20&duration=2500&color=4285F4&center=true&vCenter=true&width=450&lines=Advanced+AppSheet+Logic;Google+Workspace+Ecosystem;Operational+Smoothing;Experience+Architecture" />
+  <img src="https://img.shields.io/badge/ROLE-Assistant%20Developer-5F6368?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/DEPT-Product%20R%26D-4285F4?style=for-the-badge&logo=codeigniter&logoColor=white">
+  <img src="https://img.shields.io/badge/METHODOLOGY-Zero--Entry-34A853?style=for-the-badge&logo=probot&logoColor=white">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Executive Dossier
 
-I am a primary catalyst in the **OmmNoMi** implementation engine, specializing in the synthesis of complex technical backend logic and high-impact business value. As an **Assistant Developer** leading **Product Research and Development**, I ensure that every custom application is far more than just a functional utility—it is a branded, intuitive experience that feels like a natural extension of an organization.
+I serve as the primary engineering catalyst within the **OmmNoMi** ecosystem, specializing in translating intricate backend architectures into accessible, high-impact functional logic. Operating at the junction of custom solution design and user experience architecture, my mandate is to ensure every digital surface performs with unshakeable stability and absolute clarity.
 
-* 🏢 Assistant Developer at **OmmNoMi Automation LLP**
-* ⚙️ Technical Mastery in **Advanced AppSheet Development** & **Apps Script**
-* 🎬 Product Experience Architect spearheading clear, cinematic technical documentation
-* 🎯 Driving **Strategic Operational Smoothing** across digital touchpoints
-
-My design philosophy centers on the intersection of technical robustness and aesthetic clarity, ensuring that complex workflows are seamlessly integrated into the broader Google Workspace ecosystem. From engineering bespoke automated scripts to producing cinematic visual Study Guides, my focus remains on creating technology that is powerful, unshakeable, and a joy to use.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎯 Core Operational Vectors</h3>
+      <ul>
+        <li><b>Advanced AppSheet Synthesis:</b> Engineering relational databases, action loops, and secure API webhooks.</li>
+        <li><b>Backend Automation Pipelines:</b> Binding Google Apps Script directly to Frappe frameworks for silent 24/7 synchronization.</li>
+        <li><b>Experience Architecture:</b> Eliminating user cognitive friction via streamlined UI workflows.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🎬 Technical Documentation</h3>
+      <ul>
+        <li><b>Cinematic Study Guides:</b> Producing ultra-clear, frame-by-frame instructional blueprints.</li>
+        <li><b>Process Codification:</b> Establishing rational decision-making flowcharts for zero-ambiguity execution.</li>
+        <li><b>Operational Smoothing:</b> Applying the signature <i>"Makkhan"</i> framework to legacy processes.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Core Focus
+## 💼 Domain Mastery & Technical Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Logic-4285F4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AppSheet-Ecosystem-34A853?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Experience-Architecture-EA4335?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Operational-Smoothing-FBBC05?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/AppSheet%20Logic-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+  <img src="https://img.shields.io/badge/Apps%20Script%20APIs-EA4335?style=for-the-badge&logo=googleapps-script&logoColor=white">
+  <img src="https://img.shields.io/badge/Frappe%20Integration-FBBC05?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Elite Development Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,github,gcp" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,github,gcp,git,vscode,py,md,regex,postman&theme=light" alt="Elite Tech Stack" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=whardiksharma&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.readme-streak-stats.herokuapp.com/?user=whardiksharma&theme=default&hide_border=true">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=whardiksharma&theme=tokyonight&hide_border=true">
-  </picture>
-</p>
-
----
-
-## 📈 Activity Graph
+## 📊 Live Contribution & Development Metrics
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=whardiksharma&theme=tokyo-night">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.readme-activity-graph.vercel.app/graph?username=whardiksharma&theme=default">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=whardiksharma&theme=tokyo-night">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.readme-streak-stats.herokuapp.com/?user=whardiksharma&theme=tokyonight&hide_border=true&stroke=4285F4&background=0D1117&ring=34A853&fire=EA4335&currStreakNum=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=whardiksharma&theme=default&hide_border=true&stroke=4285F4&ring=34A853&fire=EA4335">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=whardiksharma&theme=tokyonight&hide_border=true&stroke=4285F4&ring=34A853&fire=EA4335">
   </picture>
 </p>
 
 ---
 
-## 🌐 Connect
+## 📈 Persistent Activity Ecosystem
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=whardiksharma&theme=tokyo-night&bg_color=0D1117&color=4285F4&line=34A853&point=ffffff&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=whardiksharma&theme=default&color=4285F4&line=34A853&hide_border=true">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=whardiksharma&theme=tokyo-night&color=4285F4&line=34A853&hide_border=true">
+  </picture>
+</p>
+
+---
+
+## 🌐 Secure Communications Gateway
 
 <p align="center">
   <a href="https://ommnomi.in">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Enterprise%20Portal-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/whardiksharma">
-    <img src="https://img.shields.io/badge/LinkedIn-4285F4?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn%20Network-4285F4?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/whardiksharma">
-    <img src="https://img.shields.io/badge/GitHub-5F6368?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub%20Core-5F6368?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://instagram.com/whardiksharma">
-    <img src="https://img.shields.io/badge/Instagram-EA4335?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram%20Feed-EA4335?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://x.com/whardiksharma">
-    <img src="https://img.shields.io/badge/Twitter%20/%20X-000000?style=for-the-badge&logo=x&logoColor=white">
+    <img src="https://img.shields.io/badge/X%20Broadcast-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 💡 Philosophy
+## 💡 Architecture & Philosophy
 
-<p align="center">
-<b>
-Technology achieves true perfection not when there is nothing more to add,<br>
-but when every point of friction has been seamlessly smoothed away.
-</b>
-</p>
+<blockquote align="center">
+  <p>
+    <b>"True automation engineering does not seek to remove humans from the loop.<br>
+    It elevates them from redundant processors to supreme strategic evaluators."</b>
+  </p>
+</blockquote>
 
 ---
 
-<!-- 🔥 FOOTER -->
-
+<!-- 🔥 DYNAMIC PREMIUM FOOTER -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=100&section=footer">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=100&section=footer">
-    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=100&section=footer">
+    <img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=100&section=footer">
   </picture>
 </p>
 
