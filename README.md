@@ -75,11 +75,8 @@ I serve as the primary engineering catalyst within the **OmmNoMi** ecosystem, sp
 ## 📊 Live Contribution & Development Metrics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.readme-streak-stats.herokuapp.com/?user=whardiksharma&theme=tokyonight&hide_border=true&stroke=4285F4&background=0D1117&ring=34A853&fire=EA4335&currStreakNum=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=whardiksharma&theme=default&hide_border=true&stroke=4285F4&ring=34A853&fire=EA4335">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=whardiksharma&theme=tokyonight&hide_border=true&stroke=4285F4&ring=34A853&fire=EA4335">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=whardiksharma&show_icons=true&theme=tokyonight&hide_border=true&title_color=4285F4&icon_color=34A853" alt="GitHub Core Stats" />
+  <img src="https://streak-stats.demolab.com?user=whardiksharma&theme=tokyonight&hide_border=true&title_color=4285F4&icon_color=34A853" alt="GitHub Streak" />
 </p>
 
 ---
@@ -87,11 +84,7 @@ I serve as the primary engineering catalyst within the **OmmNoMi** ecosystem, sp
 ## 📈 Persistent Activity Ecosystem
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=whardiksharma&theme=tokyo-night&bg_color=0D1117&color=4285F4&line=34A853&point=ffffff&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=whardiksharma&theme=default&color=4285F4&line=34A853&hide_border=true">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=whardiksharma&theme=tokyo-night&color=4285F4&line=34A853&hide_border=true">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whardiksharma&layout=compact&theme=tokyonight&hide_border=true&title_color=4285F4" alt="Top Languages Mastery" />
 </p>
 
 ---
