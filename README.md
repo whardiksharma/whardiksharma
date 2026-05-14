@@ -75,8 +75,8 @@ I serve as the primary engineering catalyst within the **OmmNoMi** ecosystem, sp
 ## 📊 Live Contribution & Development Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whardiksharma&show_icons=true&theme=tokyonight&hide_border=true&title_color=4285F4&icon_color=34A853" alt="GitHub Core Stats" />
-  <img src="https://streak-stats.demolab.com?user=whardiksharma&theme=tokyonight&hide_border=true&title_color=4285F4&icon_color=34A853" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whardiksharma&theme=tokyonight" alt="GitHub Profile Stats Overview" />
+  <img src="https://streak-stats.demolab.com?user=whardiksharma&theme=tokyonight&hide_border=true&title_color=4285F4&icon_color=34A853" alt="GitHub Streak Tracker" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ I serve as the primary engineering catalyst within the **OmmNoMi** ecosystem, sp
 ## 📈 Persistent Activity Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whardiksharma&layout=compact&theme=tokyonight&hide_border=true&title_color=4285F4" alt="Top Languages Mastery" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whardiksharma&theme=tokyonight" alt="Languages Distribution Matrix" />
 </p>
 
 ---
