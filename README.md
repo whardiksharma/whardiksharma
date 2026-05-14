@@ -1,9 +1,9 @@
 <!-- 🔥 ULTRA-PREMIUM DYNAMIC HEADER -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=200&section=header&text=Hardik%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Product%20Research%20%26%20Development%20Catalyst&descSize=16&descAlignY=75">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=200&section=header&text=Hardik%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Product%20Research%20%26%20Development%20Catalyst&descSize=16&descAlignY=75">
-    <img alt="Premium Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=200&section=header&text=Hardik%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Product%20Research%20%26%20Development%20Catalyst&descSize=16&descAlignY=75">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=180&section=header&text=Hardik%20Sharma&fontSize=35&fontColor=ffffff&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=180&section=header&text=Hardik%20Sharma&fontSize=35&fontColor=ffffff&animation=fadeIn">
+    <img alt="Premium Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4%2C100:34A853&height=180&section=header&text=Hardik%20Sharma&fontSize=35&fontColor=ffffff&animation=fadeIn">
   </picture>
 </p>
 
@@ -14,7 +14,7 @@
 
 <!-- 🔥 DYNAMIC TYPING SUITE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&duration=2000&color=4285F4&center=true&vCenter=true&width=600&lines=Advanced+AppSheet+Ecosystem+Architecture;Technical+Backend+Logic+Synthesis;Strategic+Operational+Friction+Smoothing;Cinematic+Technical+Study+Guides" alt="Dynamic Animations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=20&duration=2200&color=4285F4&center=true&vCenter=true&width=750&lines=Advanced+AppSheet+Ecosystem+Architecture;Technical+Backend+Logic+Synthesis;Operational+Friction+Smoothing;Cinematic+Technical+Blueprints" alt="Dynamic Animations" />
 </p>
 
 <!-- 🔥 BRAND BADGE BANNER -->
