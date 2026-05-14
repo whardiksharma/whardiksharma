@@ -19,9 +19,9 @@
 
 <!-- 🔥 BRAND BADGE BANNER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-Assistant%20Developer-5F6368?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/DEPT-Product%20R%26D-4285F4?style=for-the-badge&logo=codeigniter&logoColor=white">
-  <img src="https://img.shields.io/badge/METHODOLOGY-Zero--Entry-34A853?style=for-the-badge&logo=probot&logoColor=white">
+  <img src="https://img.shields.io/badge/ROLE-Assistant%20Developer-4285F4?style=for-the-badge&labelColor=1A73E8&logo=googlecloud&logoColor=white" alt="Role">
+  <img src="https://img.shields.io/badge/DEPT-Product%20R%26D-34A853?style=for-the-badge&labelColor=0D652D&logo=codeigniter&logoColor=white" alt="Dept">
+  <img src="https://img.shields.io/badge/METHODOLOGY-Zero--Entry-EA4335?style=for-the-badge&labelColor=B31412&logo=probot&logoColor=white" alt="Methodology">
 </p>
 
 ---
